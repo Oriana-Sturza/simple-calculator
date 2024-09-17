@@ -3,7 +3,6 @@
 
 ### **2. Simple Calculator**
 
-#### **Reviewed Code (with Comments)**:
 ```python
 def add(x, y):
     """
