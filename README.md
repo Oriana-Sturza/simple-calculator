@@ -16,7 +16,7 @@ A command-line calculator that performs basic arithmetic operations: addition, s
    cd simple-calculator
     ```
 
-Run the app:
+2. Run the app:
 python calculator.py
 
 Example Usage:
